@@ -1,4 +1,6 @@
-# accessibilityStandards
+# moreAccessible
+This is the completed homework Challenge 01
+
 The Goal of Challenge 01 is to practice making a webpage more accessible to improve functionality
 
 I successfully added HTML semantic elements wherever possible
